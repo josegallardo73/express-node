@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Xbox Series X",
+        "price": 499,
+        "thumbnail": "https://picsum.photos/200",
+        "id": 1
+    },
+    {
+        "title": "Xbox Series S",
+        "price": 299,
+        "thumbnail": "https://picsum.photos/200",
+        "id": 2
+    },
+    {
+        "title": "Playstation 5",
+        "price": 499,
+        "thumbnail": "https://picsum.photos/200",
+        "id": 3
+    },
+    {
+        "title": "Playstation 5 digital edition",
+        "price": 399,
+        "thumbnail": "https://picsum.photos/200",
+        "id": 4
+    }
+]
